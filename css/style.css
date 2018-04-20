@@ -15,11 +15,30 @@ img {
   border-radius: 50%;
 }
 .project {
-  background-color : yellow;
+  background-color : grey;
 }
 h1 {
     color: solid green;
     text-align: center;
     text-transform: uppercase;
     text-decoration-line: underline;
+}
+/* unvisited link */
+a:link {
+    color: red;
+}
+
+/* visited link */
+a:visited {
+    color: green;
+}
+
+/* mouse over link */
+a:hover {
+    color: hotpink;
+}
+
+/* selected link */
+a:active {
+    color: blue;
 }
