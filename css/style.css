@@ -1,5 +1,6 @@
 body {
     background-color: white;
+    color: white;
     background-image: url("../images/background.jpg");
     width: 1230px;
     border: 10px solid grey;
